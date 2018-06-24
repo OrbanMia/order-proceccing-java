@@ -1,0 +1,13 @@
+LineNumber;OrderItemId ;OrderId ;BuyerName ;BuyerEmail ;Address;Postcode ;SalePrice  ;ShippingPrice ;SKU ;Status ;OrderDate
+1;1;1;Bertram Gilfoyle;anna@anna.hu;;1234;1;0;SM-BLUE;IN_STOCK;2018-03-24
+2;2;2;;AmandaKukacPontHu;Pecs;1235;2;1;1224-32;IN_STOCK;2018-03-25
+3;3;3;Nyuszko;a@c.com;Pecs;egyketha;3;2;SHIRT;IN_STOCK;2018-03-26
+4;4;4;Big Head;cth@fkigtem.fd;Pecs;1237;0.5;3;5555-MECH;lol;2018-03-27
+5;5;5;Stephen;dcfs@gfd.dfs;Pecs;1238;5;-4;10-K06-321;OUT_OF_STOCK;
+6;6;6;Mr Brokkoli;sdf@ghref.hy;Pecs;1239;6;5;;IN_STOCK;180329
+7;7;7;Stephen;GHYJ@jer.hh;Pecs;1240;7;6;TEST3;OUT_OF_STOCK;2018-03-30
+8;8;8;Harry Potter;yjh@y.gf;Pecs;1241;8;7;TEST_TEST;OUT_OF_STOCK;2018-03-31
+9;9;9;Voldemort;Voldi@gth.gf;Pest;1242;9;8;MEGEGY;IN_STOCK;2018-04-02
+10;10;10;Richard Hendriks;Ricsi@gth.gf;Atad;1243;10;9;LAST;OUT_OF_STOCK;2018-04-03
+11;10;11;Hajni;Hajnalka@gth.gf;Pecs;1244;11;10;LAST;IN_STOCK;2018-04-04
+12;11;10;Brokkoli;Brokkolinyuszko@kartondoboz.gf;Szabadsah u.;1245;12;11;LAST;IN_STOCK;2018-04-05
